@@ -1,0 +1,2 @@
+# myFunnyProject
+java, python, etc
